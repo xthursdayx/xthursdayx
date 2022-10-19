@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I primarily create and maintain Docker images based on Debian, Ubuntu and Alpine Linux, with the goal of producing simple, stable and user-friendly containers. I also create templates for unRAID Community Apps users.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xthursdayx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![xthursdayx's github stats](https://github-readme-stats.vercel.app/api?username=xthursdayx&theme=tokyonight&show_icons=true)](https://github.com/xthursdayx/github-readme-stats)
 
 If you appreciate my work you can [buy me a coffee](https://www.buymeacoffee.com/xthursdayx), cheers!
